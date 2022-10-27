@@ -1,25 +1,11 @@
-body{
-    background-color: white;
-}
-h1{
-    color: blue;
-}
-
-img{
-    width: 200px;
-    height: auto;
-}
-
-#Principal{
+#Section3{
     display: flex;
-    flex-direction: row;
     align-items: center;
+    justify-content: center;
 }
 
-#Bloque1{
-    background-color: black;
-}
-
-.negro{
-    color: aqua
+#but1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
