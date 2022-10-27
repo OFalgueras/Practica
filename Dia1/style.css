@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+h1{
+    color: blue;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+#Principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#Bloque1{
+    background-color: black;
+}
+
+.negro{
+    color: aqua
+}
